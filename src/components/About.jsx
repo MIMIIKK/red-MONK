@@ -12,7 +12,7 @@ function About() {
           <div className="about-text">
             <p>
               I'm a passionate Full-Stack Developer with a focus on creating clean, efficient, and user-friendly web applications.
-              With expertise in React, Node.js, and modern web technologies, I enjoy solving complex problems and turning ideas into reality.
+              With expertise in Django, React, Node.js, and modern web technologies, I enjoy solving complex problems and turning ideas into reality.
             </p>
             <p>
               I'm a fast learner, creative thinker, and team player who thrives in collaborative environments.
