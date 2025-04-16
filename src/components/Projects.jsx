@@ -48,6 +48,14 @@ function Projects() {
       tags: ["JavaScript", "React", "ExpressJs", "NodeJs"],
       liveLink: "https://BWES.vercel.app",
       githubLink: "https://github.com/MIMIIKK/BWES.git"
+    },
+    {
+      title: "Tourism Recommendation Chatbot",
+      description: "Tourism Recommendation Chatbot, an AI-powered chatbot that suggests sustainable travel destinations using hybrid recommendation algorithms and natural language processing.",
+      image: "images/chatbot.png",
+      tags: ["Python", "Neural Network", "Jupyter Notebook", "Html"],
+      liveLink: "https://tourism-recommendation-chatbot.vercel.app",
+      githubLink: "https://github.com/MIMIIKK/Tourism-Recommendation-Chatbot.git"
     }
   ];
 
