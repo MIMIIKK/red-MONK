@@ -37,7 +37,7 @@ function Projects() {
       title: "AI Solutions",
       description: "AI-Solutions offers cutting-edge virtual assistant and prototyping solutions powered by artificial intelligence to enhance digital employee experiences. The product detail page showcases comprehensive specifications, customer testimonials, and includes a Schedule Demo form for interested customers to request personalized demonstrations.",
       image: "images/ai-solutions.png",
-      tags: ["React", "Django", "PostgreSQL"],
+      tags: ["React", "Django", "SQLite"],
       liveLink: "https://aisolutions.vercel.app",
       githubLink: "https://github.com/MIMIIKK/AI-Solutions.git"
     },
@@ -53,7 +53,7 @@ function Projects() {
       title: "Tourism Recommendation Chatbot",
       description: "Tourism Recommendation Chatbot, an AI-powered chatbot that suggests sustainable travel destinations using hybrid recommendation algorithms and natural language processing.",
       image: "images/chatbot.png",
-      tags: ["Python", "Neural Network", "Jupyter Notebook", "Html"],
+      tags: ["Python", "Neural Network"],
       liveLink: "https://tourism-recommendation-chatbot.vercel.app",
       githubLink: "https://github.com/MIMIIKK/Tourism-Recommendation-Chatbot.git"
     }
