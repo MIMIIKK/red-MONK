@@ -30,7 +30,7 @@ function Projects() {
       description: "Full-stack app for meal planning using Kotlin & Room database. Features include recipe management, nutritional analysis, and grocery list generation.",
       image: "images/mealmate.png",
       tags: ["Kotlin", "Room", "Firebase"],
-      liveLink: "https://mealmate-app.vercel.app",
+      liveLink: "https://MealMate-app.vercel.app",
       githubLink: "https://github.com/MIMIIKK/MealMate.git"
     },
     {
@@ -38,7 +38,7 @@ function Projects() {
       description: "AI-Solutions offers cutting-edge virtual assistant and prototyping solutions powered by artificial intelligence to enhance digital employee experiences. The product detail page showcases comprehensive specifications, customer testimonials, and includes a Schedule Demo form for interested customers to request personalized demonstrations.",
       image: "images/ai-solutions.png",
       tags: ["React", "Django", "SQLite"],
-      liveLink: "https://ai-solutions.vercel.app",
+      liveLink: "https://ai-solutions-app.vercel.app",
       githubLink: "https://github.com/MIMIIKK/AI-Solutions.git"
     },
     {
