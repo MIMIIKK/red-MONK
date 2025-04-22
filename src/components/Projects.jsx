@@ -41,7 +41,7 @@ function Projects() {
       liveLink: "https://ai-solutions-ten.vercel.app",
       githubLink: "https://github.com/MIMIIKK/AI-Solutions.git"
     },
-    {
+    { 
       title: "BWES",
       description: "Better World Employment Services' new job portal connects employers and job seekers through a secure, user-friendly platform. This Node.js application features authentication, searchable job listings, company dashboards for managing postings, and application tracking—all designed to promote equal employment opportunities and broaden access to the job market.",
       image: "images/bwes.png",
@@ -53,7 +53,7 @@ function Projects() {
       title: "Tourism Recommendation Chatbot",
       description: "Tourism Recommendation Chatbot, an AI-powered chatbot that suggests sustainable travel destinations using hybrid recommendation algorithms and natural language processing.",
       image: "images/chatbot.png",
-      tags: ["Python", "Neural Network"],
+      tags: ["Python", "Pandas", "Scikit-learn", "numpy"],
       liveLink: "https://tourism-recommendation-chatbot.vercel.app",
       githubLink: "https://github.com/MIMIIKK/Tourism-Recommendation-Chatbot.git"
     }
