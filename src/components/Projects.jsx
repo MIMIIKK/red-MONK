@@ -38,7 +38,7 @@ function Projects() {
       description: "AI-Solutions offers cutting-edge virtual assistant and prototyping solutions powered by artificial intelligence to enhance digital employee experiences. The product detail page showcases comprehensive specifications, customer testimonials, and includes a Schedule Demo form for interested customers to request personalized demonstrations.",
       image: "images/ai-solutions.png",
       tags: ["React", "Django", "SQLite"],
-      liveLink: "https://AI-Solutions-APP1.vercel.app",
+      liveLink: "https://ai-solutions-ten.vercel.app",
       githubLink: "https://github.com/MIMIIKK/AI-Solutions.git"
     },
     {
