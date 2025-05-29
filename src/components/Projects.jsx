@@ -56,6 +56,14 @@ function Projects() {
       tags: ["Python", "Pandas", "Scikit-learn", "numpy"],
       liveLink: "https://tourism-recommendation-chatbot.vercel.app",
       githubLink: "https://github.com/MIMIIKK/Tourism-Recommendation-Chatbot.git"
+    },
+        {
+      title: "N G A U",
+      description: "NGAU.store is a culturally-rooted eCommerce platform celebrating Magar traditions, organic products, and handmade crafts. Built with React + Vite and Django REST Framework, it features a secure, role-based user registration system and a responsive, minimalistic design.",
+      image: "images/ngau.png",
+      tags: ["Django", "React", "JavaScript", "Bootstrap", "Vite"],
+      liveLink: "https://ngau-red.vercel.app",
+      githubLink: "https://github.com/MIMIIKK/ngau.store.git"
     }
   ];
 
