@@ -30,7 +30,7 @@ function Contact() {
     const serviceID = 'service_bg7x81u';
     const templateID = 'template_sp6twk8';
     const userID = 'X3bEGf40wd0tCNWUo';
-    
+
     emailjs.sendForm(serviceID, templateID, e.target, userID)
       .then(response => {
         setStatus({
@@ -79,7 +79,7 @@ function Contact() {
               </div>
             </div>
           </div>
-          
+
           <div className="contact-form">
             <h3>Send Me a Message</h3>
             {status.message && (
@@ -89,29 +89,29 @@ function Contact() {
             )}
             <form onSubmit={handleSubmit}>
               <div className="form-group">
-                <input 
-                  type="text" 
-                  name="name" 
-                  placeholder="Your Name" 
+                <input
+                  type="text"
+                  name="name"
+                  placeholder="Your Name"
                   value={formData.name}
                   onChange={handleChange}
-                  required 
+                  required
                 />
               </div>
               <div className="form-group">
-                <input 
-                  type="email" 
-                  name="email" 
-                  placeholder="Your Email" 
+                <input
+                  type="email"
+                  name="email"
+                  placeholder="Your Email"
                   value={formData.email}
                   onChange={handleChange}
-                  required 
+                  required
                 />
               </div>
               <div className="form-group">
-                <textarea 
-                  name="message" 
-                  placeholder="Your Message" 
+                <textarea
+                  name="message"
+                  placeholder="Your Message"
                   value={formData.message}
                   onChange={handleChange}
                   required
