@@ -337,11 +337,11 @@ footer p {
   }
   
   .navbar {
-    padding: 1rem 1.5rem;
+    padding: 1rem 1rem;
   }
   
   .nav-links {
-    gap: 1.5rem;
+    gap: 1rem;
   }
   
   .floating-hire-button {
