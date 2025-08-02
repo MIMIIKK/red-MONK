@@ -2,7 +2,7 @@ import '../styles/skills.css';
 
 function Skills() {
   const frontendSkills = ['HTML5', 'CSS3', 'JavaScript (ES6+)', 'React.js', 'Responsive Design', 'Bootstrap', 'Vanilla CSS'];
-  const backendSkills = ['Django', 'MongoDB', 'PostgreSQL', 'RESTful APIs', 'Firebase', 'Room' , 'Kotlin'];
+  const backendSkills = ['Django', 'FastAPI', 'MongoDB', 'PostgreSQL', 'RESTful APIs', 'Firebase', 'Room' , 'Kotlin'];
   const toolsSkills = ['Git', 'GitHub', 'Visual Studio Code', 'Webpack', 'Docker', 'Figma', 'Postman'];
 
   return (

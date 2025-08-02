@@ -96,6 +96,8 @@ function Hero() {
                   <span className="code-operator">,</span>
                   <span className="code-string"> "Django"</span>
                   <span className="code-operator">,</span>
+                  <span className="code-string"> "FastAPI"</span>
+                  <span className="code-operator">,</span>
                 </div>
                  <div className="code-line code-indent">
                   <span className="code-string">"Kotlin"</span>
