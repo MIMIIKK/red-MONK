@@ -64,7 +64,7 @@ function Contact() {
               </div>
               <div className="contact-item">
                 <i className="fas fa-map-marker-alt"></i>
-                <span>Nepal</span>
+                <span>Butwal, Nepal</span>
               </div>
               <div className="social-links">
                 <a href="https://github.com/MIMIIKK" target="_blank" rel="noopener noreferrer">

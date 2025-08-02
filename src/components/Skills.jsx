@@ -1,9 +1,9 @@
 import '../styles/skills.css';
 
 function Skills() {
-  const frontendSkills = ['HTML5', 'CSS3', 'JavaScript', 'React', 'Responsive Design', 'Bootstrap', 'Vanilla CSS'];
-  const backendSkills = ['Node.js', 'Django', 'MongoDB', 'SQL', 'RESTful APIs', 'Firebase', 'Room'];
-  const toolsSkills = ['Git', 'GitHub', 'VS Code', 'Webpack', 'Docker', 'Figma', 'Postman'];
+  const frontendSkills = ['HTML5', 'CSS3', 'JavaScript (ES6+)', 'React.js', 'Responsive Design', 'Bootstrap', 'Vanilla CSS'];
+  const backendSkills = ['Django', 'MongoDB', 'PostgreSQL', 'RESTful APIs', 'Firebase', 'Room' , 'Kotlin'];
+  const toolsSkills = ['Git', 'GitHub', 'Visual Studio Code', 'Webpack', 'Docker', 'Figma', 'Postman'];
 
   return (
     <section id="skills" className="skills">

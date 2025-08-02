@@ -11,13 +11,15 @@ function About() {
           </div>
           <div className="about-text">
             <p>
-              I'm a passionate Full-Stack Developer with a focus on creating clean, efficient, and user-friendly web applications.
-              With expertise in Django, React, Node.js, and modern web technologies, I enjoy solving complex problems and turning ideas into reality.
+              I'm a dedicated Full-Stack Developer with a passion for building clean, scalable, and intuitive web applications.
+              My expertise spans Django, React, responsive design and other modern technologies, allowing me to craft efficient solutions that bring ideas to life.
             </p>
             <p>
-              I'm a fast learner, creative thinker, and team player who thrives in collaborative environments.
-              When I'm not coding, you can find me exploring new technologies, contributing to open-source projects, or enjoying outdoor activities.
+              I thrive in dynamic, collaborative environments where creativity meets problem-solving.
+              A fast learner and curious thinker, I continuously explore new tools and best practices.
+              Outside of development, you'll often find me contributing to open-source projects, diving into emerging tech, or recharging in nature.
             </p>
+
           </div>
         </div>
       </div>
